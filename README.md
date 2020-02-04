@@ -33,7 +33,7 @@ const apiKey = {
 	key: api_key,
 	secret: api_secret
 };
-let MRR = new MiningRigRentals(api_key)
+let MRR = new MiningRigRentals(apiKey)
 ```
 
 ## Using your first method
